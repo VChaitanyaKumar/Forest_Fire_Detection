@@ -51,7 +51,6 @@ This project demonstrates how deep learning can be effectively used for forest f
 5. Use the prediction function to classify new images  
 
 ## Screenshots
-Include the following in your repository:
 - Example images of fire and no fire  
 - Model summary screenshot  
 - Accuracy and loss plot from training  
