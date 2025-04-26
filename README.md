@@ -2,6 +2,8 @@ Forest Fire Detection using Deep Learning
 
 
 Project Overview
+
+
 This project focuses on building a Convolutional Neural Network (CNN) to detect forest fires from images using deep learning. The goal is to enable early detection to help reduce the impact of forest fires on ecosystems, wildlife, and human life.
 
 Objectives
